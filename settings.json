@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "optional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "string_view": "cpp",
+        "stdio.h": "c",
+        "hash_map": "c",
+        "initializer_list": "c",
+        "threadpool.h": "c",
+        "string.h": "c",
+        "socket.h": "c",
+        "pthread.h": "c",
+        "typeinfo": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
